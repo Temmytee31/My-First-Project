@@ -491,7 +491,13 @@ a {
     font-family: roboto;
     font-size: 62px;
     text-align: center;
+    padding-bottom: 210px;
 }
 .word span {
     background-color: yellow;
+}
+.features {
+    display: flex;
+    align-items: center;
+    /* padding-left: 310px; */
 }
