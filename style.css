@@ -499,5 +499,28 @@ a {
 .features {
     display: flex;
     align-items: center;
-    /* padding-left: 310px; */
+    padding-left: 10%;
+    padding-right: 10%;
+    gap: 50px;
+}
+.click img {
+    padding-bottom: 30px;
+}
+.click h3 {
+    font-family: roboto;
+    font-size: 48px;
+    padding-bottom: 30px;
+}
+.visitors {
+    display: flex;
+    font-family: roboto;
+    /* font-size: 18px; */
+    padding-bottom: 30px;
+    gap: 9px;
+}
+.visitor  {
+    display: flex;
+    font-family: roboto;
+    /* font-size: 18px; */
+    gap: 9px;
 }
